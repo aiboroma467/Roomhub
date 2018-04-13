@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome to RoomHub
+                    Welcome to Room-Hub
                 </div>
 
                
